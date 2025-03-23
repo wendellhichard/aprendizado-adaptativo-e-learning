@@ -69,7 +69,3 @@ Se você quiser contribuir com o projeto, manda um pull request com suas melhori
 ###   Licença
 
 MIT License
-
----
-
-Espero que ajude a ter uma ideia de como montar o README!
